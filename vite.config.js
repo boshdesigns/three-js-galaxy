@@ -11,7 +11,7 @@ export default {
     },
     build:
     {
-        outDir: '../dist',
+        outDir: '../pages',
         emptyOutDir: true,
         sourcemap: true
     }
